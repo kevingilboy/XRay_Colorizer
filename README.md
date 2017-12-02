@@ -9,3 +9,7 @@ An exploratory MATLAB-based xray colorizor that allows colors to be applied to d
 5. Repeat Steps 2:4 for as many windows as you would like
 6. Reorder and delete layers as you please
 7. Export the image as a PNG
+
+![picture alt](https://raw.githubusercontent.com/kevingilboy/XRay_Colorizor/master/imgs/GuiOverview.png "An overview of the GUI")
+
+BrainDicom.dcm sample DICOM was obtained from https://dicomr.herokuapp.com/
