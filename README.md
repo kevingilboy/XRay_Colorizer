@@ -1,5 +1,5 @@
-# XRay_Colorizor
-An exploratory MATLAB-based xray colorizor that allows colors to be applied to different Center/Width window combinations
+# XRay_Colorizer
+An exploratory MATLAB-based xray colorizer that allows colors to be applied to different Center/Width window combinations
 
 ## Steps:
 1. Import a DICOM file
@@ -11,6 +11,6 @@ An exploratory MATLAB-based xray colorizor that allows colors to be applied to d
 7. Export the image as a PNG
 
 ## GUI and Sample Result:
-![picture alt](https://raw.githubusercontent.com/kevingilboy/XRay_Colorizor/master/imgs/GuiOverview.png "An overview of the GUI")
+![picture alt](https://raw.githubusercontent.com/kevingilboy/XRay_Colorizer/master/imgs/GuiOverview.png "An overview of the GUI")
 
 *BrainDicom.dcm sample DICOM was obtained from https://dicomr.herokuapp.com/*
